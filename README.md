@@ -9,3 +9,4 @@ It's Eddy and here are a few things about myself:
 - 📫 How to reach me: eddyarief@hotmail.com or [Linkedin](https://www.linkedin.com/in/eddyzulkifly/)
 - 😄 Pronouns: He/Him
 - ⚽️ Team's I follow: Chelsea, AS Roma, Toronto FC, Real Oviedo
+- 🧑‍🏫 Looking for a Data Mentor? Book a session at [ADP List](https://adplist.org/mentors/eddy-zulkifly)
